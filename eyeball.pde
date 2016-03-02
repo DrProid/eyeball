@@ -5,7 +5,7 @@ float r, eye;
 
 void setup() {
   //surface.setResizable(true);
-  //frameRate(60);
+  frameRate(30);
   size(1000,1000);
   background(#FFFFFF);
   theta = 0;
@@ -56,7 +56,7 @@ void draw() {
   //int a = floor(map(mouseY, 0, height, -50, 0));
   int a = -35;
   int b = -a;
-  println("t= "+t+" a= "+a);
+  println("x= "+mouseX+" y= "+mouseY);
 //START CURVE
   beginShape();
   vertex(width/2, height/2);

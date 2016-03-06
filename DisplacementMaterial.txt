@@ -1,0 +1,1157 @@
+Begin Object Class=MaterialGraphNode_Root Name="MaterialGraphNode_Root_0"
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22590"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22591"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22592"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22593"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22594"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22595"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22596"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22597"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22598"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22599"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22600"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22601"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22602"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22603"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22604"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22605"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22606"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22607"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22608"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22609"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22610"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22611"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22612"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22613"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22614"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22615"
+   End Object
+   Begin Object Name="EdGraphPin_22590"
+      PinName="Base Color"
+      PinType=(PinCategory="materialinput")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_2.EdGraphPin_22620'
+   End Object
+   Begin Object Name="EdGraphPin_22591"
+      PinName="Metallic"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22592"
+      PinName="Specular"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22593"
+      PinName="Roughness"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22594"
+      PinName="Emissive Color"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22595"
+      PinName="Opacity"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22596"
+      PinName="Opacity Mask"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22597"
+      PinName="Normal"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22598"
+      PinName="World Position Offset"
+      PinType=(PinCategory="materialinput")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_1.EdGraphPin_22619'
+   End Object
+   Begin Object Name="EdGraphPin_22599"
+      PinName="World Displacement"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22600"
+      PinName="Tessellation Multiplier"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22601"
+      PinName="Subsurface Color"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22602"
+      PinName="Clear Coat"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22603"
+      PinName="Clear Coat Roughness"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22604"
+      PinName="Ambient Occlusion"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22605"
+      PinName="Refraction"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22606"
+      PinName="Customized UV0"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22607"
+      PinName="Customized UV1"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22608"
+      PinName="Customized UV2"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22609"
+      PinName="Customized UV3"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22610"
+      PinName="Customized UV4"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22611"
+      PinName="Customized UV5"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22612"
+      PinName="Customized UV6"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22613"
+      PinName="Customized UV7"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22614"
+      PinName="Pixel Depth Offset"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Begin Object Name="EdGraphPin_22615"
+      PinName="Material Attributes"
+      PinType=(PinCategory="materialinput")
+   End Object
+   Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+   Pins(0)=EdGraphPin'EdGraphPin_22590'
+   Pins(1)=EdGraphPin'EdGraphPin_22591'
+   Pins(2)=EdGraphPin'EdGraphPin_22592'
+   Pins(3)=EdGraphPin'EdGraphPin_22593'
+   Pins(4)=EdGraphPin'EdGraphPin_22594'
+   Pins(5)=EdGraphPin'EdGraphPin_22595'
+   Pins(6)=EdGraphPin'EdGraphPin_22596'
+   Pins(7)=EdGraphPin'EdGraphPin_22597'
+   Pins(8)=EdGraphPin'EdGraphPin_22598'
+   Pins(9)=EdGraphPin'EdGraphPin_22599'
+   Pins(10)=EdGraphPin'EdGraphPin_22600'
+   Pins(11)=EdGraphPin'EdGraphPin_22601'
+   Pins(12)=EdGraphPin'EdGraphPin_22602'
+   Pins(13)=EdGraphPin'EdGraphPin_22603'
+   Pins(14)=EdGraphPin'EdGraphPin_22604'
+   Pins(15)=EdGraphPin'EdGraphPin_22605'
+   Pins(16)=EdGraphPin'EdGraphPin_22606'
+   Pins(17)=EdGraphPin'EdGraphPin_22607'
+   Pins(18)=EdGraphPin'EdGraphPin_22608'
+   Pins(19)=EdGraphPin'EdGraphPin_22609'
+   Pins(20)=EdGraphPin'EdGraphPin_22610'
+   Pins(21)=EdGraphPin'EdGraphPin_22611'
+   Pins(22)=EdGraphPin'EdGraphPin_22612'
+   Pins(23)=EdGraphPin'EdGraphPin_22613'
+   Pins(24)=EdGraphPin'EdGraphPin_22614'
+   Pins(25)=EdGraphPin'EdGraphPin_22615'
+   NodePosX=880
+   NodePosY=512
+   NodeGuid=5FBBBB0343E9A8839D2F39893EC535FD
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_1"
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22617"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22618"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22619"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionMultiply'MaterialGraphNode_3.MaterialExpressionMultiply_1')
+      B=(Expression=MaterialExpressionScalarParameter'MaterialGraphNode_15.MaterialExpressionScalarParameter_1')
+      ConstB=5.000000
+      MaterialExpressionEditorX=144
+      MaterialExpressionEditorY=512
+      MaterialExpressionGuid=51A58B274BE105FAFB862F9BD66E2576
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+   End Object
+   Begin Object Name="EdGraphPin_22617"
+      PinName="A"
+      PinType=(PinCategory="optional")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_3.EdGraphPin_22623'
+   End Object
+   Begin Object Name="EdGraphPin_22618"
+      PinName="B"
+      PinType=(PinCategory="optional")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_15.EdGraphPin_22647'
+   End Object
+   Begin Object Name="EdGraphPin_22619"
+      PinName="Output"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_16.EdGraphPin_22649'
+      LinkedTo(1)=EdGraphPin'MaterialGraphNode_Root_0.EdGraphPin_22598'
+   End Object
+   MaterialExpression=MaterialExpressionMultiply'MaterialExpressionMultiply_0'
+   Pins(0)=EdGraphPin'EdGraphPin_22617'
+   Pins(1)=EdGraphPin'EdGraphPin_22618'
+   Pins(2)=EdGraphPin'EdGraphPin_22619'
+   NodePosX=144
+   NodePosY=512
+   NodeGuid=9CF127FE4853B0318F168F946A7FE76E
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_2"
+   Begin Object Class=MaterialExpressionVertexNormalWS Name="MaterialExpressionVertexNormalWS_0"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22620"
+   End Object
+   Begin Object Name="MaterialExpressionVertexNormalWS_0"
+      MaterialExpressionEditorX=-384
+      MaterialExpressionEditorY=144
+      MaterialExpressionGuid=8319A0BD423A0BD2DA6706B2CF7921F2
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+      bCommentBubbleVisible=True
+   End Object
+   Begin Object Name="EdGraphPin_22620"
+      PinName="Output"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_3.EdGraphPin_22621'
+      LinkedTo(1)=EdGraphPin'MaterialGraphNode_Root_0.EdGraphPin_22590'
+   End Object
+   MaterialExpression=MaterialExpressionVertexNormalWS'MaterialExpressionVertexNormalWS_0'
+   Pins(0)=EdGraphPin'EdGraphPin_22620'
+   NodePosX=-384
+   NodePosY=144
+   bCommentBubbleVisible=True
+   NodeGuid=490C0F1843C491F769082BA356514739
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_3"
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_1"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22621"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22622"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22623"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1"
+      A=(Expression=MaterialExpressionVertexNormalWS'MaterialGraphNode_2.MaterialExpressionVertexNormalWS_0')
+      B=(Expression=MaterialExpressionAdd'MaterialGraphNode_13.MaterialExpressionAdd_1')
+      ConstB=25.000000
+      MaterialExpressionEditorX=-160
+      MaterialExpressionEditorY=384
+      MaterialExpressionGuid=3027E0844F5A7B1EF9A19C883825B2C2
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+      bCommentBubbleVisible=True
+   End Object
+   Begin Object Name="EdGraphPin_22621"
+      PinName="A"
+      PinType=(PinCategory="optional")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_2.EdGraphPin_22620'
+   End Object
+   Begin Object Name="EdGraphPin_22622"
+      PinName="B"
+      PinType=(PinCategory="optional")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_13.EdGraphPin_22645'
+   End Object
+   Begin Object Name="EdGraphPin_22623"
+      PinName="Output"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_1.EdGraphPin_22617'
+   End Object
+   MaterialExpression=MaterialExpressionMultiply'MaterialExpressionMultiply_1'
+   Pins(0)=EdGraphPin'EdGraphPin_22621'
+   Pins(1)=EdGraphPin'EdGraphPin_22622'
+   Pins(2)=EdGraphPin'EdGraphPin_22623'
+   NodePosX=-160
+   NodePosY=384
+   bCommentBubbleVisible=True
+   NodeGuid=EA98DFC34477342B3C59D5A7315F6F70
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_7"
+   Begin Object Class=MaterialExpressionSine Name="MaterialExpressionSine_4"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22629"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22630"
+   End Object
+   Begin Object Name="MaterialExpressionSine_4"
+      Input=(Expression=MaterialExpressionComponentMask'MaterialGraphNode_9.MaterialExpressionComponentMask_0')
+      MaterialExpressionEditorX=-888
+      MaterialExpressionEditorY=494
+      MaterialExpressionGuid=E309014A4CD93B226A51E8A4CF55C7A5
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+      bCollapsed=False
+   End Object
+   Begin Object Name="EdGraphPin_22629"
+      PinName="Input"
+      PinFriendlyName=" "
+      PinType=(PinCategory="required")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_9.EdGraphPin_22635'
+   End Object
+   Begin Object Name="EdGraphPin_22630"
+      PinName="Output"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_13.EdGraphPin_22644'
+   End Object
+   MaterialExpression=MaterialExpressionSine'MaterialExpressionSine_4'
+   Pins(0)=EdGraphPin'EdGraphPin_22629'
+   Pins(1)=EdGraphPin'EdGraphPin_22630'
+   NodePosX=-888
+   NodePosY=494
+   NodeGuid=2C1864894974A446830584B6B251B5A3
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_8"
+   Begin Object Class=MaterialExpressionPanner Name="MaterialExpressionPanner_0"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22631"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22632"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22633"
+   End Object
+   Begin Object Name="MaterialExpressionPanner_0"
+      SpeedY=0.400000
+      MaterialExpressionEditorX=-1272
+      MaterialExpressionEditorY=494
+      MaterialExpressionGuid=AF78F7064871E77558AF8B9BDCED6842
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+      bCollapsed=False
+   End Object
+   Begin Object Name="EdGraphPin_22631"
+      PinName="Coordinate"
+      PinType=(PinCategory="optional")
+   End Object
+   Begin Object Name="EdGraphPin_22632"
+      PinName="Time"
+      PinType=(PinCategory="optional")
+   End Object
+   Begin Object Name="EdGraphPin_22633"
+      PinName="Output"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_9.EdGraphPin_22634'
+   End Object
+   MaterialExpression=MaterialExpressionPanner'MaterialExpressionPanner_0'
+   Pins(0)=EdGraphPin'EdGraphPin_22631'
+   Pins(1)=EdGraphPin'EdGraphPin_22632'
+   Pins(2)=EdGraphPin'EdGraphPin_22633'
+   NodePosX=-1272
+   NodePosY=494
+   NodeGuid=4081CE6E4DB0466F99432986FA29ED20
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_9"
+   Begin Object Class=MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_0"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22634"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22635"
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_0"
+      Input=(Expression=MaterialExpressionPanner'MaterialGraphNode_8.MaterialExpressionPanner_0')
+      G=True
+      MaterialExpressionEditorX=-1032
+      MaterialExpressionEditorY=494
+      MaterialExpressionGuid=7B1021564069F37E265D349F71A19E02
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+      bCollapsed=False
+   End Object
+   Begin Object Name="EdGraphPin_22634"
+      PinName="Input"
+      PinFriendlyName=" "
+      PinType=(PinCategory="required")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_8.EdGraphPin_22633'
+   End Object
+   Begin Object Name="EdGraphPin_22635"
+      PinName="Output"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_7.EdGraphPin_22629'
+   End Object
+   MaterialExpression=MaterialExpressionComponentMask'MaterialExpressionComponentMask_0'
+   Pins(0)=EdGraphPin'EdGraphPin_22634'
+   Pins(1)=EdGraphPin'EdGraphPin_22635'
+   NodePosX=-1032
+   NodePosY=494
+   NodeGuid=418E27AA4938633F84A4358E6C8CB1A5
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_10"
+   Begin Object Class=MaterialExpressionPanner Name="MaterialExpressionPanner_1"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22636"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22637"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22638"
+   End Object
+   Begin Object Name="MaterialExpressionPanner_1"
+      SpeedX=0.300000
+      MaterialExpressionEditorX=-1272
+      MaterialExpressionEditorY=302
+      MaterialExpressionGuid=AF78F7064871E77558AF8B9BDCED6842
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+      bCollapsed=False
+   End Object
+   Begin Object Name="EdGraphPin_22636"
+      PinName="Coordinate"
+      PinType=(PinCategory="optional")
+   End Object
+   Begin Object Name="EdGraphPin_22637"
+      PinName="Time"
+      PinType=(PinCategory="optional")
+   End Object
+   Begin Object Name="EdGraphPin_22638"
+      PinName="Output"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_11.EdGraphPin_22639'
+   End Object
+   MaterialExpression=MaterialExpressionPanner'MaterialExpressionPanner_1'
+   Pins(0)=EdGraphPin'EdGraphPin_22636'
+   Pins(1)=EdGraphPin'EdGraphPin_22637'
+   Pins(2)=EdGraphPin'EdGraphPin_22638'
+   NodePosX=-1272
+   NodePosY=302
+   NodeGuid=5219C1EF4A5246EB74DDD898B704E3B7
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_11"
+   Begin Object Class=MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_1"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22639"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22640"
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_1"
+      Input=(Expression=MaterialExpressionPanner'MaterialGraphNode_10.MaterialExpressionPanner_1')
+      R=True
+      MaterialExpressionEditorX=-1032
+      MaterialExpressionEditorY=302
+      MaterialExpressionGuid=7B1021564069F37E265D349F71A19E02
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+      bCollapsed=False
+   End Object
+   Begin Object Name="EdGraphPin_22639"
+      PinName="Input"
+      PinFriendlyName=" "
+      PinType=(PinCategory="required")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_10.EdGraphPin_22638'
+   End Object
+   Begin Object Name="EdGraphPin_22640"
+      PinName="Output"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_12.EdGraphPin_22641'
+   End Object
+   MaterialExpression=MaterialExpressionComponentMask'MaterialExpressionComponentMask_1'
+   Pins(0)=EdGraphPin'EdGraphPin_22639'
+   Pins(1)=EdGraphPin'EdGraphPin_22640'
+   NodePosX=-1032
+   NodePosY=302
+   NodeGuid=5FE8728940121E26ACDB528C3161D6B8
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_12"
+   Begin Object Class=MaterialExpressionSine Name="MaterialExpressionSine_5"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22641"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22642"
+   End Object
+   Begin Object Name="MaterialExpressionSine_5"
+      Input=(Expression=MaterialExpressionComponentMask'MaterialGraphNode_11.MaterialExpressionComponentMask_1')
+      MaterialExpressionEditorX=-872
+      MaterialExpressionEditorY=302
+      MaterialExpressionGuid=E309014A4CD93B226A51E8A4CF55C7A5
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+      bCollapsed=False
+   End Object
+   Begin Object Name="EdGraphPin_22641"
+      PinName="Input"
+      PinFriendlyName=" "
+      PinType=(PinCategory="required")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_11.EdGraphPin_22640'
+   End Object
+   Begin Object Name="EdGraphPin_22642"
+      PinName="Output"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_13.EdGraphPin_22643'
+   End Object
+   MaterialExpression=MaterialExpressionSine'MaterialExpressionSine_5'
+   Pins(0)=EdGraphPin'EdGraphPin_22641'
+   Pins(1)=EdGraphPin'EdGraphPin_22642'
+   NodePosX=-872
+   NodePosY=302
+   NodeGuid=E717A4A84BA552E1FF1C54A926558A3B
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_13"
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_1"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22643"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22644"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22645"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_1"
+      A=(Expression=MaterialExpressionSine'MaterialGraphNode_12.MaterialExpressionSine_5')
+      B=(Expression=MaterialExpressionSine'MaterialGraphNode_7.MaterialExpressionSine_4')
+      MaterialExpressionEditorX=-712
+      MaterialExpressionEditorY=430
+      MaterialExpressionGuid=39C348EC4AB26AF19138D99C1916F564
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+      bCollapsed=False
+   End Object
+   Begin Object Name="EdGraphPin_22643"
+      PinName="A"
+      PinType=(PinCategory="optional")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_12.EdGraphPin_22642'
+   End Object
+   Begin Object Name="EdGraphPin_22644"
+      PinName="B"
+      PinType=(PinCategory="optional")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_7.EdGraphPin_22630'
+   End Object
+   Begin Object Name="EdGraphPin_22645"
+      PinName="Output"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_3.EdGraphPin_22622'
+   End Object
+   MaterialExpression=MaterialExpressionAdd'MaterialExpressionAdd_1'
+   Pins(0)=EdGraphPin'EdGraphPin_22643'
+   Pins(1)=EdGraphPin'EdGraphPin_22644'
+   Pins(2)=EdGraphPin'EdGraphPin_22645'
+   NodePosX=-712
+   NodePosY=430
+   NodeGuid=AB87F481437143C98DFD3E8394649EC7
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_15"
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_1"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22647"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_1"
+      DefaultValue=10.000000
+      SliderMax=10.000000
+      ParameterName="Distance"
+      ExpressionGUID=6F81F1424537C10E5D46789699740C31
+      MaterialExpressionEditorX=32
+      MaterialExpressionEditorY=624
+      MaterialExpressionGuid=0130293E408CE9B7801649A43A6C5E06
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+   End Object
+   Begin Object Name="EdGraphPin_22647"
+      PinName="Output"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_1.EdGraphPin_22618'
+   End Object
+   MaterialExpression=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_1'
+   Pins(0)=EdGraphPin'EdGraphPin_22647'
+   NodePosX=32
+   NodePosY=624
+   bCanRenameNode=True
+   NodeGuid=0D328FB24D99CD50621D91A7708BC7A9
+End Object
+Begin Object Class=MaterialGraphNode_Comment Name="MaterialGraphNode_Comment_0"
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_18"
+   End Object
+   Begin Object Name="MaterialExpressionComment_18"
+      SizeX=352
+      SizeY=288
+      Text="Displacement distance INPUT"
+      CommentColor=(R=0.555000,G=1.000000,B=0.555000,A=1.000000)
+      MaterialExpressionEditorY=416
+      MaterialExpressionGuid=A3FA32824F37E4E620D50FA6097626E6
+   End Object
+   MaterialExpressionComment=MaterialExpressionComment'MaterialExpressionComment_18'
+   CommentColor=(R=0.555000,G=1.000000,B=0.555000,A=1.000000)
+   CommentDepth=-2
+   NodePosY=416
+   NodeWidth=352
+   NodeHeight=288
+   NodeComment="Displacement distance INPUT"
+   NodeGuid=6AE0E2544A526527E1C629A62D0CB903
+End Object
+Begin Object Class=MaterialGraphNode_Comment Name="MaterialGraphNode_Comment_1"
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_19"
+   End Object
+   Begin Object Name="MaterialExpressionComment_19"
+      SizeX=736
+      SizeY=208
+      Text="3 colour output. notice the strange breaks on the top of the sphere"
+      CommentColor=(R=0.000000,G=1.000000,B=0.000000,A=1.000000)
+      MaterialExpressionEditorX=-448
+      MaterialExpressionEditorY=32
+      MaterialExpressionGuid=773401C745F3AB08FD320AA242D8C403
+   End Object
+   MaterialExpressionComment=MaterialExpressionComment'MaterialExpressionComment_19'
+   CommentColor=(R=0.000000,G=1.000000,B=0.000000,A=1.000000)
+   CommentDepth=-2
+   NodePosX=-448
+   NodePosY=32
+   NodeWidth=736
+   NodeHeight=208
+   NodeComment="3 colour output. notice the strange breaks on the top of the sphere"
+   NodeGuid=A11C1361447843160DA7268F5CAF6964
+End Object
+Begin Object Class=MaterialGraphNode_Comment Name="MaterialGraphNode_Comment_2"
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_20"
+   End Object
+   Begin Object Name="MaterialExpressionComment_20"
+      SizeX=768
+      SizeY=528
+      Text="general 1 channel generator"
+      MaterialExpressionEditorX=-1304
+      MaterialExpressionEditorY=222
+      MaterialExpressionGuid=9A5107BA40B92BE6D19B2C9C35A5F09F
+   End Object
+   MaterialExpressionComment=MaterialExpressionComment'MaterialExpressionComment_20'
+   NodePosX=-1304
+   NodePosY=222
+   NodeWidth=768
+   NodeHeight=528
+   NodeComment="general 1 channel generator"
+   NodeGuid=A5A415B7483BCC1C42895C92A35BC256
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_16"
+   Begin Object Class=MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_1"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22648"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22649"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22650"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22651"
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_1"
+      B=(Expression=MaterialExpressionMultiply'MaterialGraphNode_1.MaterialExpressionMultiply_0')
+      Alpha=(Expression=MaterialExpressionTextureSample'MaterialGraphNode_22.MaterialExpressionTextureSample_1',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=400
+      MaterialExpressionEditorY=1200
+      MaterialExpressionGuid=E146558D4DB6CF9F3FB09F9569612665
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+      bCommentBubbleVisible=True
+   End Object
+   Begin Object Name="EdGraphPin_22648"
+      PinName="A"
+      PinType=(PinCategory="optional")
+   End Object
+   Begin Object Name="EdGraphPin_22649"
+      PinName="B"
+      PinType=(PinCategory="optional")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_1.EdGraphPin_22619'
+   End Object
+   Begin Object Name="EdGraphPin_22650"
+      PinName="Alpha"
+      PinType=(PinCategory="optional")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_22.EdGraphPin_22662'
+   End Object
+   Begin Object Name="EdGraphPin_22651"
+      PinName="Output"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+   End Object
+   MaterialExpression=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_1'
+   Pins(0)=EdGraphPin'EdGraphPin_22648'
+   Pins(1)=EdGraphPin'EdGraphPin_22649'
+   Pins(2)=EdGraphPin'EdGraphPin_22650'
+   Pins(3)=EdGraphPin'EdGraphPin_22651'
+   NodePosX=400
+   NodePosY=1200
+   bCommentBubbleVisible=True
+   NodeGuid=D29FFA0146C9E9BF6B445D97BF5E5777
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_23"
+   Begin Object Class=MaterialExpressionSine Name="MaterialExpressionSine_6"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22652"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22653"
+   End Object
+   Begin Object Name="MaterialExpressionSine_6"
+      Input=(Expression=MaterialExpressionTime'MaterialGraphNode_18.MaterialExpressionTime_1')
+      Period=10.000000
+      MaterialExpressionEditorX=-1200
+      MaterialExpressionEditorY=1056
+      MaterialExpressionGuid=718F32D84819D452724009A1B0592D9A
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+   End Object
+   Begin Object Name="EdGraphPin_22652"
+      PinName="Input"
+      PinFriendlyName=" "
+      PinType=(PinCategory="required")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_18.EdGraphPin_22654'
+   End Object
+   Begin Object Name="EdGraphPin_22653"
+      PinName="Output"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_24.EdGraphPin_22672'
+   End Object
+   MaterialExpression=MaterialExpressionSine'MaterialExpressionSine_6'
+   Pins(0)=EdGraphPin'EdGraphPin_22652'
+   Pins(1)=EdGraphPin'EdGraphPin_22653'
+   NodePosX=-1200
+   NodePosY=1056
+   NodeGuid=56E8EFE54C89FA8FBFA64DB5DC1B0D1C
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_18"
+   Begin Object Class=MaterialExpressionTime Name="MaterialExpressionTime_1"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22654"
+   End Object
+   Begin Object Name="MaterialExpressionTime_1"
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=1072
+      MaterialExpressionGuid=F90C67CD46AE67C32987BCBD94F82592
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+   End Object
+   Begin Object Name="EdGraphPin_22654"
+      PinName="Output"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_23.EdGraphPin_22652'
+      LinkedTo(1)=EdGraphPin'MaterialGraphNode_17.EdGraphPin_22666'
+   End Object
+   MaterialExpression=MaterialExpressionTime'MaterialExpressionTime_1'
+   Pins(0)=EdGraphPin'EdGraphPin_22654'
+   NodePosX=-1360
+   NodePosY=1072
+   NodeGuid=5F9F3966433E4F9F44EF1C82AEFB8B3A
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_19"
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_2"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22655"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22656"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22657"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_2"
+      A=(Expression=MaterialExpressionTextureCoordinate'MaterialGraphNode_21.MaterialExpressionTextureCoordinate_1')
+      B=(Expression=MaterialExpressionMaterialFunctionCall'MaterialGraphNode_24.MaterialExpressionMaterialFunctionCall_1')
+      MaterialExpressionEditorX=-826
+      MaterialExpressionEditorY=1007
+      MaterialExpressionGuid=5ECA2A4645D56A7E52E0E9B37174B1D7
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+   End Object
+   Begin Object Name="EdGraphPin_22655"
+      PinName="A"
+      PinType=(PinCategory="optional")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_21.EdGraphPin_22659'
+   End Object
+   Begin Object Name="EdGraphPin_22656"
+      PinName="B"
+      PinType=(PinCategory="optional")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_24.EdGraphPin_22674'
+   End Object
+   Begin Object Name="EdGraphPin_22657"
+      PinName="Output"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_22.EdGraphPin_22660'
+   End Object
+   MaterialExpression=MaterialExpressionAdd'MaterialExpressionAdd_2'
+   Pins(0)=EdGraphPin'EdGraphPin_22655'
+   Pins(1)=EdGraphPin'EdGraphPin_22656'
+   Pins(2)=EdGraphPin'EdGraphPin_22657'
+   NodePosX=-826
+   NodePosY=1007
+   NodeGuid=FB0D90F64669DAC055435E934AD8F80E
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_21"
+   Begin Object Class=MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_1"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22659"
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_1"
+      MaterialExpressionEditorX=-954
+      MaterialExpressionEditorY=991
+      MaterialExpressionGuid=89EB733B4C8A06A3A834FDB61F9B0F45
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+   End Object
+   Begin Object Name="EdGraphPin_22659"
+      PinName="Output"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_19.EdGraphPin_22655'
+   End Object
+   MaterialExpression=MaterialExpressionTextureCoordinate'MaterialExpressionTextureCoordinate_1'
+   Pins(0)=EdGraphPin'EdGraphPin_22659'
+   NodePosX=-954
+   NodePosY=991
+   NodeGuid=B2EDD7474946B271E08B80A341884CE6
+End Object
+Begin Object Class=MaterialGraphNode_Comment Name="MaterialGraphNode_Comment_4"
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_21"
+   End Object
+   Begin Object Name="MaterialExpressionComment_21"
+      SizeX=816
+      SizeY=400
+      Text="This might be fun, plug in a texture "
+      CommentColor=(R=0.890617,G=0.134610,B=1.000000,A=1.000000)
+      MaterialExpressionEditorX=-1376
+      MaterialExpressionEditorY=832
+      MaterialExpressionGuid=0B040E194F577DF8C344BDBEF53EBBB1
+   End Object
+   MaterialExpressionComment=MaterialExpressionComment'MaterialExpressionComment_21'
+   CommentColor=(R=0.890617,G=0.134610,B=1.000000,A=1.000000)
+   CommentDepth=-2
+   NodePosX=-1376
+   NodePosY=832
+   NodeWidth=816
+   NodeHeight=400
+   NodeComment="This might be fun, plug in a texture "
+   NodeGuid=A2EA3A474F158107BB5615AA5E922585
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_22"
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_1"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22660"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22661"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22662"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22663"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22664"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22665"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_1"
+      Coordinates=(Expression=MaterialExpressionAdd'MaterialGraphNode_19.MaterialExpressionAdd_2')
+      Texture=Texture2D'/Game/ExampleContent/Experimental/Textures/AnisoStructure.AnisoStructure'
+      MaterialExpressionEditorX=-736
+      MaterialExpressionEditorY=1024
+      MaterialExpressionGuid=06A135BA44E9426BFA0A158E1A581250
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+   End Object
+   Begin Object Name="EdGraphPin_22660"
+      PinName="UVs"
+      PinType=(PinCategory="optional")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_19.EdGraphPin_22657'
+   End Object
+   Begin Object Name="EdGraphPin_22661"
+      PinName="Output"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      PinType=(PinCategory="mask")
+   End Object
+   Begin Object Name="EdGraphPin_22662"
+      PinName="Output2"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      PinType=(PinCategory="mask",PinSubCategory="red")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_16.EdGraphPin_22650'
+   End Object
+   Begin Object Name="EdGraphPin_22663"
+      PinName="Output3"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      PinType=(PinCategory="mask",PinSubCategory="green")
+   End Object
+   Begin Object Name="EdGraphPin_22664"
+      PinName="Output4"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      PinType=(PinCategory="mask",PinSubCategory="blue")
+   End Object
+   Begin Object Name="EdGraphPin_22665"
+      PinName="Output5"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      PinType=(PinCategory="mask",PinSubCategory="alpha")
+   End Object
+   MaterialExpression=MaterialExpressionTextureSample'MaterialExpressionTextureSample_1'
+   Pins(0)=EdGraphPin'EdGraphPin_22660'
+   Pins(1)=EdGraphPin'EdGraphPin_22661'
+   Pins(2)=EdGraphPin'EdGraphPin_22662'
+   Pins(3)=EdGraphPin'EdGraphPin_22663'
+   Pins(4)=EdGraphPin'EdGraphPin_22664'
+   Pins(5)=EdGraphPin'EdGraphPin_22665'
+   NodePosX=-736
+   NodePosY=1024
+   ErrorType=1
+   ErrorMsg="TextureSample> Missing input texture"
+   NodeGuid=DA08D68D466AB94D357F80908D53A2E8
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_17"
+   Begin Object Class=MaterialExpressionSine Name="MaterialExpressionSine_7"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22666"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22667"
+   End Object
+   Begin Object Name="MaterialExpressionSine_7"
+      Input=(Expression=MaterialExpressionTime'MaterialGraphNode_18.MaterialExpressionTime_1')
+      Period=20.000000
+      MaterialExpressionEditorX=-1210
+      MaterialExpressionEditorY=1135
+      MaterialExpressionGuid=718F32D84819D452724009A1B0592D9A
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+   End Object
+   Begin Object Name="EdGraphPin_22666"
+      PinName="Input"
+      PinFriendlyName=" "
+      PinType=(PinCategory="required")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_18.EdGraphPin_22654'
+   End Object
+   Begin Object Name="EdGraphPin_22667"
+      PinName="Output"
+      PinFriendlyName=" "
+      Direction=EGPD_Output
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_24.EdGraphPin_22673'
+   End Object
+   MaterialExpression=MaterialExpressionSine'MaterialExpressionSine_7'
+   Pins(0)=EdGraphPin'EdGraphPin_22666'
+   Pins(1)=EdGraphPin'EdGraphPin_22667'
+   NodePosX=-1210
+   NodePosY=1135
+   NodeGuid=462B4945454CC2ACAB7901BD461E61B9
+End Object
+Begin Object Class=MaterialGraphNode Name="MaterialGraphNode_24"
+   Begin Object Class=MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_1"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22672"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22673"
+   End Object
+   Begin Object Class=EdGraphPin Name="EdGraphPin_22674"
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_1"
+      MaterialFunction=MaterialFunction'/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.MakeFloat2'
+      FunctionInputs(0)=(ExpressionInputId=529C1D96441E07EB03A9E59B8A7F67B6,Input=(Expression=MaterialExpressionSine'MaterialGraphNode_23.MaterialExpressionSine_6',InputName="X"))
+      FunctionInputs(1)=(ExpressionInputId=B5BD7D1B494F6928732CCDA1C63D8E15,Input=(Expression=MaterialExpressionSine'MaterialGraphNode_17.MaterialExpressionSine_7',InputName="Y"))
+      FunctionOutputs(0)=(ExpressionOutputId=0DD6F9954C067C3E5DDBBBA0D6910DD2,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-1114
+      MaterialExpressionEditorY=1087
+      MaterialExpressionGuid=3749E345431D528346E412BB34ADB7F8
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="EdGraphPin_22672"
+      PinName="X (S)"
+      PinType=(PinCategory="optional")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_23.EdGraphPin_22653'
+   End Object
+   Begin Object Name="EdGraphPin_22673"
+      PinName="Y (S)"
+      PinType=(PinCategory="optional")
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_17.EdGraphPin_22667'
+   End Object
+   Begin Object Name="EdGraphPin_22674"
+      PinName="Result"
+      Direction=EGPD_Output
+      LinkedTo(0)=EdGraphPin'MaterialGraphNode_19.EdGraphPin_22656'
+   End Object
+   MaterialExpression=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_1'
+   Pins(0)=EdGraphPin'EdGraphPin_22672'
+   Pins(1)=EdGraphPin'EdGraphPin_22673'
+   Pins(2)=EdGraphPin'EdGraphPin_22674'
+   NodePosX=-1114
+   NodePosY=1087
+   NodeGuid=7D5B8F074EE27A7F19414E94BDFA6457
+End Object
+Begin Object Class=MaterialGraphNode_Comment Name="MaterialGraphNode_Comment_5"
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_22"
+   End Object
+   Begin Object Name="MaterialExpressionComment_22"
+      SizeX=256
+      SizeY=240
+      Text="The period for Sine is different for x and y"
+      CommentColor=(R=0.247500,G=0.495000,B=0.342912,A=1.000000)
+      MaterialExpressionEditorX=-1232
+      MaterialExpressionEditorY=960
+      MaterialExpressionGuid=A34ED909475EE7E9897D1C9EF01212E3
+   End Object
+   MaterialExpressionComment=MaterialExpressionComment'MaterialExpressionComment_22'
+   CommentColor=(R=0.247500,G=0.495000,B=0.342912,A=1.000000)
+   NodePosX=-1232
+   NodePosY=960
+   NodeWidth=256
+   NodeHeight=240
+   NodeComment="The period for Sine is different for x and y"
+   NodeGuid=3938F9C349D10534A85BE8ABA513C246
+End Object
+Begin Object Class=MaterialGraphNode_Comment Name="MaterialGraphNode_Comment_7"
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_23"
+   End Object
+   Begin Object Name="MaterialExpressionComment_23"
+      SizeX=624
+      SizeY=208
+      Text="Masking to 0 displacement after calculations"
+      CommentColor=(R=0.000000,G=0.183792,B=1.000000,A=1.000000)
+      MaterialExpressionEditorX=384
+      MaterialExpressionEditorY=1120
+      MaterialExpressionGuid=2521EF2542086383634A9A9F263D4831
+   End Object
+   MaterialExpressionComment=MaterialExpressionComment'MaterialExpressionComment_23'
+   CommentColor=(R=0.000000,G=0.183792,B=1.000000,A=1.000000)
+   NodePosX=384
+   NodePosY=1120
+   NodeWidth=624
+   NodeHeight=208
+   NodeComment="Masking to 0 displacement after calculations"
+   NodeGuid=6A7A0091434FDD769D90F487C52B4348
+End Object
+Begin Object Class=MaterialGraphNode_Comment Name="MaterialGraphNode_Comment_8"
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_24"
+   End Object
+   Begin Object Name="MaterialExpressionComment_24"
+      SizeX=608
+      SizeY=96
+      Text="Always use POSITION OFFSET instead of displacement"
+      CommentColor=(R=0.951356,G=0.150294,B=1.000000,A=1.000000)
+      MaterialExpressionEditorX=1040
+      MaterialExpressionEditorY=736
+      MaterialExpressionGuid=BCDA192545414319F8D72B8810AA0BBD
+   End Object
+   MaterialExpressionComment=MaterialExpressionComment'MaterialExpressionComment_24'
+   CommentColor=(R=0.951356,G=0.150294,B=1.000000,A=1.000000)
+   NodePosX=1040
+   NodePosY=736
+   NodeWidth=608
+   NodeHeight=96
+   NodeComment="Always use POSITION OFFSET instead of displacement"
+   NodeGuid=770BF8B6455894FD7CFF259A6AEDA2D2
+End Object
+Begin Object Class=MaterialGraphNode_Comment Name="MaterialGraphNode_Comment_9"
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_25"
+   End Object
+   Begin Object Name="MaterialExpressionComment_25"
+      SizeX=992
+      SizeY=1296
+      Text="Replace me with greyscale data"
+      CommentColor=(R=1.000000,G=0.969292,B=0.000000,A=1.000000)
+      MaterialExpressionEditorX=-1440
+      MaterialExpressionEditorY=32
+      MaterialExpressionGuid=1140209F4509ADFC04D94DAE20297DAB
+   End Object
+   MaterialExpressionComment=MaterialExpressionComment'MaterialExpressionComment_25'
+   CommentColor=(R=1.000000,G=0.969292,B=0.000000,A=1.000000)
+   CommentDepth=-3
+   NodePosX=-1440
+   NodePosY=32
+   NodeWidth=992
+   NodeHeight=1296
+   NodeComment="Replace me with greyscale data"
+   NodeGuid=99915FC345268A50A81EF59D5B0C66F6
+End Object
+Begin Object Class=MaterialGraphNode_Comment Name="MaterialGraphNode_Comment_10"
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_26"
+   End Object
+   Begin Object Name="MaterialExpressionComment_26"
+      SizeX=176
+      SizeY=256
+      Text="CORE: multiply normal data by x"
+      CommentColor=(R=0.255000,G=1.000000,B=0.255000,A=1.000000)
+      MaterialExpressionEditorX=-208
+      MaterialExpressionEditorY=256
+      MaterialExpressionGuid=CC7AB44943AC25F9603855900A4C8A19
+   End Object
+   MaterialExpressionComment=MaterialExpressionComment'MaterialExpressionComment_26'
+   CommentColor=(R=0.255000,G=1.000000,B=0.255000,A=1.000000)
+   NodePosX=-208
+   NodePosY=256
+   NodeWidth=176
+   NodeHeight=256
+   NodeComment="CORE: multiply normal data by x"
+   NodeGuid=30198A7140BC90F7B2CBF7851E01DFBF
+End Object
+Begin Object Class=MaterialGraphNode_Comment Name="MaterialGraphNode_Comment_13"
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_27"
+   End Object
+   Begin Object Name="MaterialExpressionComment_27"
+      SizeX=400
+      SizeY=80
+      Text="Follow the green windows"
+      MaterialExpressionEditorX=1056
+      MaterialExpressionEditorY=608
+      MaterialExpressionGuid=C03AE278414837F05795C7973E67506A
+   End Object
+   MaterialExpressionComment=MaterialExpressionComment'MaterialExpressionComment_27'
+   CommentDepth=-3
+   NodePosX=1056
+   NodePosY=608
+   NodeHeight=80
+   NodeComment="Follow the green windows"
+   NodeGuid=4F8C9D3B4061A68A243FD48F88D24861
+End Object
+Begin Object Class=MaterialGraphNode_Comment Name="MaterialGraphNode_Comment_11"
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_28"
+   End Object
+   Begin Object Name="MaterialExpressionComment_28"
+      SizeX=400
+      SizeY=112
+      Text="Make sure tesselation is on"
+      MaterialExpressionEditorX=1056
+      MaterialExpressionEditorY=576
+      MaterialExpressionGuid=C03AE278414837F05795C7973E67506A
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+   End Object
+   MaterialExpressionComment=MaterialExpressionComment'MaterialExpressionComment_28'
+   CommentDepth=-4
+   NodePosX=1056
+   NodePosY=576
+   NodeHeight=112
+   NodeComment="Make sure tesselation is on"
+   NodeGuid=8565E3144482ECDDECED2890033E4A69
+End Object
+Begin Object Class=MaterialGraphNode_Comment Name="MaterialGraphNode_Comment_12"
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_29"
+   End Object
+   Begin Object Name="MaterialExpressionComment_29"
+      SizeX=400
+      SizeY=48
+      Text="Input greyscale mask into core"
+      MaterialExpressionEditorX=1056
+      MaterialExpressionEditorY=640
+      MaterialExpressionGuid=C03AE278414837F05795C7973E67506A
+      Material=PreviewMaterial'/Engine/Transient.M_JoelCustom'
+   End Object
+   MaterialExpressionComment=MaterialExpressionComment'MaterialExpressionComment_29'
+   CommentDepth=-2
+   NodePosX=1056
+   NodePosY=640
+   NodeHeight=48
+   NodeComment="Input greyscale mask into core"
+   NodeGuid=2A7E7E7443F90388104160B38DDB0E53
+End Object

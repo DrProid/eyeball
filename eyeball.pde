@@ -6,8 +6,8 @@ float r, eye;
 void setup() {
   //surface.setResizable(true);
   frameRate(30);
-  size(window.innerWidth, window.innerHeight);
-  //size(1000,1000);
+  //size(window.innerWidth, window.innerHeight);
+  size(1000,1000);
   background(#FFFFFF);
   theta = 0;
   r = height/2;

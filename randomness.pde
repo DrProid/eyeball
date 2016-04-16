@@ -8,6 +8,11 @@
   return dVal;
   }
 
+  float wastedVal(float dVal, int range) {
+  dVal += random(-range,range);
+  return dVal;
+  }
+
   void randomStroke(){
   strokeWeight(floor(random(STROKEMIN,STROKEMAX)));
   noFill();
@@ -75,11 +80,11 @@
       B = -255;
     }
     }
-    if (A <= 50){
+    if (A <= 75){
     A += random(0,5);
-    if (A > 150 || out == 0){
-    A -= random(0,5);
+    }
+    if (A > 75 ){
+    A += random(0,-5);
     }
     }
-    fill(abs(R),abs(G),abs(B),abs(A));
-}
+    

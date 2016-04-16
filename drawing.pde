@@ -1,6 +1,6 @@
   void drawCircle(){
     noStroke();
-    fill(0, 255);
+    fill(0, 254);
     ellipse(width/2,height/2,height/4,height/4);
   }
   
@@ -14,8 +14,8 @@
     float ctrlPoints = floor(random(ctrlPointMin,ctrlPointMax)); //number of control points in line
     int a = (ceil(random(25,35)));
     float x,y;
-    float theta = random(-PI,PI); //choose random angle
-    float r = height/2;
+    theta = random(-PI,PI); //choose random angle
+    r = height/2;
   
     beginShape();
   
@@ -38,3 +38,49 @@
   
   }
   
+  void drawPlanet(){
+    if (diam>height/2 && out==1){
+      if (chances<0){  
+      keyIndex='c';
+      }
+      chances -=1;
+  }
+  if (diam < (random(25,50))) {
+    out= 1;
+  }
+  if (height-diam < 10) {
+    background(255,255,255,1);
+    A=0;
+    ellipse(width/2, height/2, diam, diam);
+    out = 0;
+    diam = height-10;
+    //fill no stroke
+  }
+  if (out == 1) {//moving out
+    //background(#FFFFFF);
+    fill(abs(R),abs(G),abs(B),1);
+    
+    if (height-diam>1&&height-diam<height){
+      A /= height-diam;
+    }
+    if (height-diam<1){
+      A =0;
+    }
+    stroke(abs(R),abs(G),abs(B),abs(A));
+    ellipse(width/2, height/2, diam, diam);
+    diam += floor(random(0,3));
+    planetColourchange();
+    //noFill();
+
+  }
+  if (out == 0) {//moving in
+    //background(#FFFFFF);
+    noStroke();
+    fill(abs(R),abs(G),abs(B),abs(A));
+    ellipse(width/2, height/2, diam, diam);
+    diam -= floor(random(0,3));
+    planetColourchange();
+    //stroke(abs(R),abs(G),abs(B),abs(A));
+
+  } 
+  }

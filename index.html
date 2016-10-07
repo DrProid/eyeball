@@ -2,9 +2,27 @@
   <head>
 	<script src="processing.min.js"></script>
     <title>JoelFlanagan.com</title>
+	<style>
+	html, body {
+		width: 100%;
+		height: 100%;
+	}
+	div.container {
+		width: 100vh;
+		height: 100vh;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+		-webkit-transform: translate(-50%,-50%);
+		-moz-transform: translate(-50%,-50%);
+		-o-transform: translate(-50%,-50%);
+		-ms-transform: translate(-50%,-50%);
+	}
+	</style>
   </head>
   <body>
-		<p><canvas data-processing-sources="eyeball.pde" onClick="location.href='index.html'"></canvas></p>
-		<iframe src="https://player.vimeo.com/video/30894811" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<div class="container"><canvas data-processing-sources="eyeball.pde" onClick="location.href='index.html'"></canvas></div>
+		<!--<iframe src="https://player.vimeo.com/video/30894811" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
   </body>
 </html>
